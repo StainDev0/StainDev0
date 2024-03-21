@@ -1,4 +1,15 @@
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=staindev0&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=6&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=staindev0&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+# [Hi, I am Blue Stain](https://staindev0.github.io/)
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src = "https://img.shields.io/badge/Discord-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white">][discord] 
+[<img height="30" src="https://img.shields.io/badge/Github Page-%231DA1F2.svg?&style=for-the-badge&logo=Github&logoColor=white" />][github]
+ 
+ <details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+
+</details>
+
+[twitter]: https://twitter.com/staindev0
+[discord]: https://discord.com/users/1168212040737890404
+[github]: https://staindev0.github.io
